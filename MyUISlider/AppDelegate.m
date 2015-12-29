@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  MyUISlider
 //
-//  Created by Dang Vu Duy on 12/29/15.
+//  Created by Dang Vu Duy on 12/20/15.
 //  Copyright © 2015 Dang Vu Duy. All rights reserved.
 //
 

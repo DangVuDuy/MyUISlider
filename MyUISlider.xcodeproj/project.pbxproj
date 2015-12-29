@@ -13,6 +13,12 @@
 		D7E19F921C3277AD00151E50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7E19F901C3277AD00151E50 /* Main.storyboard */; };
 		D7E19F941C3277AD00151E50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7E19F931C3277AD00151E50 /* Assets.xcassets */; };
 		D7E19F971C3277AD00151E50 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D7E19F951C3277AD00151E50 /* LaunchScreen.storyboard */; };
+		D7E19FA31C32787900151E50 /* MaxSpeaker.png in Resources */ = {isa = PBXBuildFile; fileRef = D7E19F9E1C32787900151E50 /* MaxSpeaker.png */; };
+		D7E19FA41C32787900151E50 /* MuteSpeaker.png in Resources */ = {isa = PBXBuildFile; fileRef = D7E19F9F1C32787900151E50 /* MuteSpeaker.png */; };
+		D7E19FA51C32787900151E50 /* track-fill.png in Resources */ = {isa = PBXBuildFile; fileRef = D7E19FA01C32787900151E50 /* track-fill.png */; };
+		D7E19FA61C32787900151E50 /* track-fit.png in Resources */ = {isa = PBXBuildFile; fileRef = D7E19FA11C32787900151E50 /* track-fit.png */; };
+		D7E19FA71C32787900151E50 /* track.png in Resources */ = {isa = PBXBuildFile; fileRef = D7E19FA21C32787900151E50 /* track.png */; };
+		D7E19FA91C32792800151E50 /* thumb.png in Resources */ = {isa = PBXBuildFile; fileRef = D7E19FA81C32792800151E50 /* thumb.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +32,12 @@
 		D7E19F931C3277AD00151E50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D7E19F961C3277AD00151E50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D7E19F981C3277AD00151E50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7E19F9E1C32787900151E50 /* MaxSpeaker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MaxSpeaker.png; sourceTree = "<group>"; };
+		D7E19F9F1C32787900151E50 /* MuteSpeaker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MuteSpeaker.png; sourceTree = "<group>"; };
+		D7E19FA01C32787900151E50 /* track-fill.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "track-fill.png"; sourceTree = "<group>"; };
+		D7E19FA11C32787900151E50 /* track-fit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "track-fit.png"; sourceTree = "<group>"; };
+		D7E19FA21C32787900151E50 /* track.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = track.png; sourceTree = "<group>"; };
+		D7E19FA81C32792800151E50 /* thumb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumb.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +74,12 @@
 				D7E19F8B1C3277AD00151E50 /* AppDelegate.m */,
 				D7E19F8D1C3277AD00151E50 /* ViewController.h */,
 				D7E19F8E1C3277AD00151E50 /* ViewController.m */,
+				D7E19F9E1C32787900151E50 /* MaxSpeaker.png */,
+				D7E19F9F1C32787900151E50 /* MuteSpeaker.png */,
+				D7E19FA01C32787900151E50 /* track-fill.png */,
+				D7E19FA11C32787900151E50 /* track-fit.png */,
+				D7E19FA21C32787900151E50 /* track.png */,
+				D7E19FA81C32792800151E50 /* thumb.png */,
 				D7E19F901C3277AD00151E50 /* Main.storyboard */,
 				D7E19F931C3277AD00151E50 /* Assets.xcassets */,
 				D7E19F951C3277AD00151E50 /* LaunchScreen.storyboard */,
@@ -137,9 +155,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7E19FA61C32787900151E50 /* track-fit.png in Resources */,
+				D7E19FA71C32787900151E50 /* track.png in Resources */,
+				D7E19FA51C32787900151E50 /* track-fill.png in Resources */,
 				D7E19F971C3277AD00151E50 /* LaunchScreen.storyboard in Resources */,
+				D7E19FA41C32787900151E50 /* MuteSpeaker.png in Resources */,
 				D7E19F941C3277AD00151E50 /* Assets.xcassets in Resources */,
+				D7E19FA31C32787900151E50 /* MaxSpeaker.png in Resources */,
 				D7E19F921C3277AD00151E50 /* Main.storyboard in Resources */,
+				D7E19FA91C32792800151E50 /* thumb.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
